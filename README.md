@@ -1,0 +1,2 @@
+# inventory
+Perpetual inventory system
